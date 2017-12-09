@@ -11,7 +11,7 @@ public class Testing {
 	{
 		WebDriver driver=new FirefoxDriver();
 		driver.get("http://learn-automation.com/selenium-maven-build-and-usage/");
-		
+		System.out.println();
 		
 	}
 
